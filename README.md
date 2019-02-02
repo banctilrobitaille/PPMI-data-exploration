@@ -1,4 +1,4 @@
-#  <img src="/icons/ppmi.png" width="60" vertical-align="bottom"> PPMI Data Exploration
+#  <img src="/icons/ppmi.png" width="220" vertical-align="bottom"> <span padding-bottom="30px">PPMI Data Exploration</span>
 > Visualization notebook for the [PPMI Data set](http://www.ppmi-info.org/)
 
 ## Contributing
